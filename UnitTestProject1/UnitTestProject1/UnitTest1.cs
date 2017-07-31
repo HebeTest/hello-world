@@ -15,7 +15,7 @@ namespace UnitTestProject1
 10
         public void TestMethod2()
 11
-        { //throw new Exception();
+        { throw new Exception();
 12
         }
     }
