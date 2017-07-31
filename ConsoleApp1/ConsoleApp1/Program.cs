@@ -9,9 +9,9 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args)
+
         { int i=1; dfdfd
-         //int j=1;
-         //int k;
+        
         }
     }
 }
