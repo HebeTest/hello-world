@@ -10,5 +10,13 @@ namespace UnitTestProject1
         public void TestMethod1()
         { throw new Exception();
         }
+        
+        [TestMethod]
+10
+        public void TestMethod2()
+11
+        { throw new Exception();
+12
+        }
     }
 }
