@@ -8,17 +8,17 @@ namespace UnitTestProject1
     {
         [TestMethod]
         public void TestMethod1()
-        { throw new Exception();
+        { //throw new Exception();
         }
         
         [TestMethod]
         public void TestMethod2()
-        { throw new Exception();
+        { //throw new Exception();
         }
         
         [TestMethod]
         public void TestMethod3()
-        { throw new Exception();
+        { //throw new Exception();
         }
     }
 }
