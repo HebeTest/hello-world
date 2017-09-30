@@ -12,7 +12,7 @@ namespace UnitTestProject1
         }
         
         [TestMethod]
-        public void TestMethod2()
+        public void TestMethod2(
         { //throw new Exception();
         }
         
