@@ -7,12 +7,12 @@ namespace UnitTestProject1
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1(
+        public void TestMethod1()
         { //throw new Exception();
         }
         
         [TestMethod]
-        public void TestMethod2(
+        public void TestMethod2()
         { //throw new Exception();
         }
         
